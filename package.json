@@ -1,0 +1,10 @@
+{
+  "name": "euro20-500-odds-overseer-v3",
+  "version": "3.0.1",
+  "private": true,
+  "description": "Euro20 500-Odds Overseer Android PWA with secure odds relay",
+  "type": "commonjs",
+  "engines": {"node": ">=20"},
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^5.1.0"}
+}
